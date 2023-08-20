@@ -18,7 +18,7 @@
     justify-content: space-between;
 }
 .header-block-1-logo {
-    font-size: 18px;
+    font-size: 14px;
     font-weight: bold;
     color: #f9faf8;
 }
@@ -30,7 +30,7 @@ ul {
     margin: 0px;
 }
 li {
-    font-size: 12px;
+    font-size: 10px;
     color: #e5e7eb;
 }
 .header-block-2 {
@@ -45,12 +45,12 @@ li {
     gap: 5px;
 }
 .header-block-1-left-text-1 {
-    font-size: 28px;
+    font-size: 26px;
     font-weight: bold;
     color: #f9faf8;
 }
 .header-block-1-left-text-2 {
-    font-size: 12px;
+    font-size: 10px;
     color: #e5e7eb;
 }
 .header-block-1-left-button {
@@ -64,7 +64,7 @@ li {
 
 }
 .header-block-1-left-button-1 {
-    font-size: 12px;
+    font-size: 10px;
     font-weight: bold;
     color: #f9faf8;
 }
@@ -76,7 +76,7 @@ li {
     background: #e5e7eb80;
 }
 .header-block-2-right-text {
-    font-size: 12px;
+    font-size: 10px;
     color: #e5e7eb;
 }
 .body-1 {
@@ -87,7 +87,7 @@ li {
     padding: 20px 150px 40px;
 }
 .body-1-text {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: bold;
     color: #1f2937;
 }
@@ -102,31 +102,30 @@ li {
     align-items: center;
 }
 .card-box {
-    height: 100px;
-    width: 100px;
-    border: 3px solid #3882f6;
+    height: 90px;
+    width: 90px;
+    border: 2px solid #3882f6;
     border-radius: 10px;
 }
 .card-text {
-    width: 103px;
-    font-size: 12px;
+    width: 92px;
+    font-size: 10px;
     color: 1f2937;
-    text-align: center;
 }
 .body-2 {
     display: flex;
     flex-direction: column;
     background: #e5e7eb;
-    padding: 60px 150px;
+    padding: 60px 200px;
     gap: 10px;
 }
 .body-2-text {
-    font-size: 20px;
+    font-size: 18px;
     font-style: italic;
     color: #1f2937;
 }
 .body-2-sign {
-    font-size: 16px;
+    font-size: 12px;
     font-weight: bold;
     color: #1f2937;
     align-self: self-end;
@@ -140,7 +139,7 @@ li {
 .body-3-block {
     display: flex;
     background: #3882f6;
-    padding: 20px 80px;
+    padding: 30px 60px;
     border-radius: 5px;
     align-items: center;
     gap: 40px;
@@ -150,12 +149,12 @@ li {
     flex-direction: column;
 }
 .body-3-block-text-1 {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: bold;
     color: #f9faf8;
 }
 .body-3-block-text-2 {
-    font-size: 12px;
+    font-size: 10px;
     color: #e5e7eb;
 }
 .body-3-block-button {
@@ -166,10 +165,10 @@ li {
     border: 2px solid #f9faf8;
     border-radius: 5px;
     height: 20px;
-    width: 80px;
+    width: 70px;
 }
 .body-3-block-button-1 {
-    font-size: 12px;
+    font-size: 10px;
     font-weight: bold;
     color: #f9faf8;
 }
@@ -181,6 +180,6 @@ li {
     padding: 20px 100px;
 }
 .footer-text {
-    font-size: 12px;
+    font-size: 10px;
     color: #f9faf8;
 }
